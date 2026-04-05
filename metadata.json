@@ -1,0 +1,8 @@
+{
+  "name": "Zafar (زفار)",
+  "description": "A modern AI-powered study platform acting as a personal teacher, study planner, and learning ecosystem.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
